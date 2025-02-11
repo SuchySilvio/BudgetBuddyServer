@@ -1,0 +1,15 @@
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.csproj.AssemblyReference.cache
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.AssemblyInfoInputs.cache
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.AssemblyInfo.cs
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.csproj.CoreCompileInputs.cache
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.sourcelink.json
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/bin/Debug/net8.0/BudgetBuddy.DataModel.deps.json
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/bin/Debug/net8.0/BudgetBuddy.DataModel.runtimeconfig.json
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/bin/Debug/net8.0/BudgetBuddy.DataModel.dll
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/bin/Debug/net8.0/BudgetBuddy.DataModel.pdb
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.dll
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/refint/BudgetBuddy.DataModel.dll
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.pdb
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/BudgetBuddy.DataModel.genruntimeconfig.cache
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddy.DataModel/obj/Debug/net8.0/ref/BudgetBuddy.DataModel.dll

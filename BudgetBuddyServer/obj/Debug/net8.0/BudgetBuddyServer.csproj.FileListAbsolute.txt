@@ -1,0 +1,6 @@
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddyServer/obj/Debug/net8.0/BudgetBuddyServer.csproj.AssemblyReference.cache
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddyServer/obj/Debug/net8.0/BudgetBuddyServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddyServer/obj/Debug/net8.0/BudgetBuddyServer.AssemblyInfoInputs.cache
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddyServer/obj/Debug/net8.0/BudgetBuddyServer.AssemblyInfo.cs
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddyServer/obj/Debug/net8.0/BudgetBuddyServer.csproj.CoreCompileInputs.cache
+/home/silvio/Documents/BudgetBuddy/BudgetBuddyServer/BudgetBuddyServer/obj/Debug/net8.0/BudgetBuddyServer.sourcelink.json
